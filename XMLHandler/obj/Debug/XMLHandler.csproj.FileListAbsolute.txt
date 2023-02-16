@@ -1,0 +1,7 @@
+C:\Users\anton.petuhov\source\repos\XMLHandler\XMLHandler\obj\Debug\XMLHandler.csproj.AssemblyReference.cache
+C:\Users\anton.petuhov\source\repos\XMLHandler\XMLHandler\obj\Debug\XMLHandler.csproj.CoreCompileInputs.cache
+C:\Users\anton.petuhov\source\repos\XMLHandler\XMLHandler\bin\Debug\XMLHandler.exe.config
+C:\Users\anton.petuhov\source\repos\XMLHandler\XMLHandler\bin\Debug\XMLHandler.exe
+C:\Users\anton.petuhov\source\repos\XMLHandler\XMLHandler\bin\Debug\XMLHandler.pdb
+C:\Users\anton.petuhov\source\repos\XMLHandler\XMLHandler\obj\Debug\XMLHandler.exe
+C:\Users\anton.petuhov\source\repos\XMLHandler\XMLHandler\obj\Debug\XMLHandler.pdb

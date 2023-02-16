@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SafirMessage>
+  <Envelope>
+    <Message ID="0" Origin="EDI" Type="REQ" Version="008" />
+    <FromSystem ID="64" />
+    <ToSystem ID="331" />
+    <Sent DateTime="20230214135700" />
+  </Envelope>
+  <Requisition GUID="B3A744D8-81C6-F473-1B86-305C0700A5EDC" ReqType="TubeCode" RequisitionID="2132336400" Status="N">
+    <ReqInformation Code="BM" Value="Венозная кровь" />
+    <ReqInformation Code="TF" Value="ВМП" />
+    <ReqInformation Code="ADRES" Value="г. Волжский, 18-я (Заря тер. СНТ) 1/1" />
+    <Patient BirthDate="20080203" FirstName="МИХАЛ ИВАНОВИЧ" Surname="ТЕСТ" PatientID="" ReservePatientID="76307" Sex="M" />
+    <ICDDiagnosis Code="ND" Priority="1" />
+    <ReqUnit ContactId="-1" ContactPerson="Administrator" PostalAddress="no" AddressCode="64" />
+    <CopyUnit1 ContactPerson="Administrator" AddressCode="64" />
+    <Sample LaboratoryID="2132336400" FormatQualifier="203" DrawTime="202302141355">
+      <ColUnit AddressCode="64" PartyQualifier="REQ" />
+      <Investigation InvestigationCode="45.16" PriorityCode="R" />
+      <Investigation InvestigationCode="45.17" PriorityCode="R" />
+      <Analysis GroupCode="" TestMethodCode="Б0001" PriorityCode="R">
+        <Lab AdressCode="331" />
+      </Analysis>
+      <Analysis GroupCode="" TestMethodCode="Б0005" PriorityCode="R">
+        <Lab AdressCode="331" />
+      </Analysis>
+    </Sample>
+  </Requisition>
+</SafirMessage>
